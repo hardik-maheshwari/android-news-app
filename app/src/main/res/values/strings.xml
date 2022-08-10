@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="headlines">Headlines</string>
+    <string name="home">Home</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="trending">Trending</string>
+    <string name="search">Search</string>
+    <string name="world">World</string>
+    <string name="business">Business</string>
+    <string name="politics">Politics</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+    <string name="science">Science</string>
+    <string name="details">Details</string>
+    <string name="no_bookmarks">No Bookmarked Articles</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="tweet">Tweet</string>
+    <string name="view_full_article"><u>View Full Article</u></string>
+    <string name="progress_text">Fetching News</string>
+    <string name="trending_enter_data">Enter Search Term:</string>
+    <string name="hint">Coronavirus</string>
+    <string name="item_separator">" | "</string>
+    <string name="bookmark_icon_content_desc">bookmark icon</string>
+</resources>
